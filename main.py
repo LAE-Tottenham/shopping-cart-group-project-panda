@@ -7,4 +7,4 @@ while True:
     print('Please select what you would like to buy')
     items_to_buy = start_shop()
 
-    # blah blah 
+     
